@@ -1,35 +1,33 @@
-# Olá pessoal <a href='https://emojitool.com/pt/waving-hand-sign-type-6'>👋🏿</a>
+<div align="center">
+	<h1> Olá pessoal <a href='https://emojitool.com/pt/waving-hand-sign-type-6'>👋🏿</a></h1>
+</div>
+<br>
+<div align="center">
+<p> Meu nome é <strong> Joilton </strong>, mas pode me chamar de Ton, recentemente me tornei <strong> Desenvolvedor Fullstack Júnior </strong>e sou motivado por programar e compartilhar conhecimentos e  experiências. </p> 
 
-Meu nome é Joilton, mas pode me chamar de Ton, recentemente me tornei desenvolvedor Fullstack Júnior e sou motivado por programar e compartilhar conhecimentos e  experiências. 
+ 🏆 - Desenvolvedor Web pela Cubos Academy.
 
-🏆 - Desenvolvedor Web pela Cubos Academy.
+ 💻 - Estudante One - Oracle Next Education pela Alura e Oracle.
 
-💻 - Estudante One - Oracle Next Education pela Alura e Oracle.
+ 🎓 - Bacharel em Fisioterapia pela Unime.
 
-🎓 - Bacharel em Fisioterapia pela Unime.
+ 🐛 🦋 E em constante aprendizado!
 
-🐛 🦋 E em constante aprendizado!
-
-
-### Principais ferramentas e linguagens:
+</div>
+<div align="center"><h3> Principais ferramentas e linguagens:</h3> </div>
+<br>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-
-
-### Contatos:
-
-<div>
-
+<div align="center"><h3> Contatos </h3>
+<br>
   <a href="https://discord.gg/kVJM3Ry7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:joiltonmacedo2022@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joilton-macedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-
 </div>
 <br>
-
-	> "É caminhando que se faz o caminho"
+<div align="center"><h3><em> "É caminhando que se faz o caminho"</em></h3> </div>
  <br> 
  <div>
   <a href="https://github.com/JoiltonMacedo2023">
