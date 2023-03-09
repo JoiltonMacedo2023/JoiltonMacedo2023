@@ -49,7 +49,7 @@
 </div>
 <br>	
 <br>
-<div align="center">📌 Veja abaixo meus principais projetos! ⤵️ </div>
+	<div align="center"><h2><strong>📌 Veja abaixo meus principais projetos! ⤵️</strong></h2></div>
 
 	
 	
