@@ -8,7 +8,9 @@
  🏆 - Desenvolvedor Web pela Cubos Academy.
 
  💻 - Estudante One - Oracle Next Education pela Alura e Oracle.
-
+	
+ 💾 - Graduando em Análise e Desenvolvimento de Sistemas pela Estácio FIB Bahia.
+	
  🎓 - Bacharel em Fisioterapia pela Unime.
 
  🐛 🦋 E em constante aprendizado!
