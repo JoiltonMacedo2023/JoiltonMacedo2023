@@ -3,15 +3,16 @@
 </div>
 <br>
 <div align="center">
-<p> Meu nome é <strong> Joilton </strong>, mas pode me chamar de Ton, recentemente me tornei <strong> Desenvolvedor Fullstack Júnior </strong>e sou motivado por programar e compartilhar conhecimentos e  experiências. </p> 
+<p> Meu nome é <strong> Joilton </strong>, mas pode me chamar de Ton, Sou um entusiasta da tecnologia, atualmente focado em me tornar um <strong>Analista/Engenheiro de Qualidade de Software (QA)</strong>. Recentemente, fiz a transição para o mundo do desenvolvimento como Desenvolvedor Fullstack Júnior e estou animado para continuar progredindo nessa área, enquanto compartilho meus conhecimentos e experiências. </p> 
 
  🏆 - Desenvolvedor Web pela Cubos Academy.
-
- 💻 - Estudante One - Oracle Next Education pela Alura e Oracle.
-	
+ 	
  💾 - Graduando em Análise e Desenvolvimento de Sistemas pela Estácio FIB Bahia.
-	
- 🎓 - Bacharel em Fisioterapia pela Unime.
+
+ 💻 - Estudando o curso "Guardião Pró da Qualidade" na Lumenstack, aprofundando meus conhecimentos em metodologias e práticas de Qualidade de Software.
+
+ 🌟 Participando do curso "QA Coders" na Academy QA, onde estou adquirindo vivências e habilidades práticas essenciais para garantir a qualidade de software em projetos de desenvolvimento.
+ 
 
  🐛 🦋 E em constante aprendizado!
 
@@ -19,7 +20,7 @@
 <div align="center"><h3> Principais linguagens e ferramentas :</h3> </div>
 <br>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![INSOMNIA](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![EXPRESS.JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+ ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![INSOMNIA](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![CYPRESS](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ROBOT FRAMEWORK](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white) ![JIRA](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 <div align="center"><h3> Contatos </h3>
 <br>
