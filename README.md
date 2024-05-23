@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align="center">
-<p> Meu nome é <strong> Joilton </strong>, mas pode me chamar de Ton, Sou um entusiasta da tecnologia, atualmente focado em me tornar um <strong>Analista/Engenheiro de Qualidade de Software (QA)</strong>. Recentemente, fiz a transição para o mundo do desenvolvimento como Desenvolvedor Fullstack Júnior e estou animado para continuar progredindo nessa área, enquanto compartilho meus conhecimentos e experiências. </p> 
+<p> Meu nome é <strong> Joilton </strong>, mas pode me chamar de Ton, Sou um entusiasta da tecnologia, atualmente focado em me tornar um <strong>Analista/Engenheiro de Qualidade de Software (QA)</strong>. Em processo de transição para o mundo de Qualidade de Software e estou animado para continuar progredindo nessa área, enquanto compartilho meus conhecimentos e experiências. </p> 
 
  🏆 - Desenvolvedor Web pela Cubos Academy.
  	
