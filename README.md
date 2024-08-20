@@ -9,13 +9,15 @@
  	
  💾 - Graduando em Análise e Desenvolvimento de Sistemas pela Estácio FIB Bahia.
 
+ 🌟 - Concluí o Programa de Qualificação em Testes de Software da Plataforma TSTR da empresa 4ALL Tests onde estudei, pratiquei  desde fundamentos até automação de testes.
+
  💻 - Estudando o curso "Guardião Pró da Qualidade" na Lumestack, aprofundando meus conhecimentos em metodologias e práticas de Qualidade de Software.
 
  🌟 - Participando do Programa de Formação QA Coders Academy  TQC - Trainee, onde estou adquirindo vivências e habilidades práticas essenciais para garantir a 
    qualidade de software em projetos de desenvolvimento.
 
 🔨 - Aluno da Residência em Software TIC 36 Bahia Cepedi, exercendo em uma abordagem prática, experiências reais em Teste de Software, descubrindo as melhores práticas 
-   com o bojetivo de se tornar um especialista em qualidade de software.
+   com o objetivo de me tornar um especialista em qualidade de software.
  
 
  🐛 🦋 E em constante aprendizado!
